@@ -15,11 +15,11 @@ We're using this data to jump start a wider scale, public labeling project where
 We'll be using these annotations to pre-populate a model, which will provide suggestions to our community of annotators. 
 ![Something like this](./suggestions.gif "Something like this")
 
-#This is a community effort
+# This is a community effort
 We're putting this out there with the goal of building a community of "trump annotators", hopefully from all sides of the spectrum. 
 Since this is a community effort, we'll be releasing all annotations that come in. You'll find the latest version once a week here. 
 Anyone annotating can download the latest data live
 
-#Where do I sign up ? 
+# Where do I sign up ? 
 
 Glad you asked. Just go to [our demo page](https://demo.lighttag.io), signup and start labeling 
